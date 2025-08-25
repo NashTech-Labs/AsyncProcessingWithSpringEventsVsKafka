@@ -34,7 +34,7 @@ This project showcases both strategies to highlight their differences in scalabi
 ```
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### Prerequisites
 
