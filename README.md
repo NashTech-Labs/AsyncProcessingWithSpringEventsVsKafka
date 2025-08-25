@@ -28,9 +28,9 @@ This project showcases both strategies to highlight their differences in scalabi
   │   ├── Kafka listener for orders       # Consumes messages from 'order-topic'
   │   └── Integration test for Kafka consumer
   └── order-service/
-  ├── Spring Events                   # In-process event classes and listeners
-  ├── Kafka Producer                  # Publishes messages to 'order-topic'
-  └── Integration tests               # Covers both Kafka and Spring Events
+      ├── Spring Events                   # In-process event classes and listeners
+      ├── Kafka Producer                  # Publishes messages to 'order-topic'
+      └── Integration tests               # Covers both Kafka and Spring Events
 ```
 ---
 
